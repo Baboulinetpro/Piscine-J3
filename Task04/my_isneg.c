@@ -8,6 +8,3 @@ int my_isneg(int n)
   my_putchar('\n');
   return(0);
 }
-
-
-
