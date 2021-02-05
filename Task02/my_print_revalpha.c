@@ -9,8 +9,3 @@ int my_print_revalpha(void)
   my_putchar('\n');
   return(0);
 }
-
-
-
-
-
