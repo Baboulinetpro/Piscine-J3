@@ -9,5 +9,3 @@ int my_print_digits(void)
   my_putchar('\n');
   return(0);
 }
-
-
