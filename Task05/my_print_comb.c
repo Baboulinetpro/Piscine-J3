@@ -12,8 +12,9 @@ int my_print_comb(void)
 	   my_putchar(a);
            my_putchar(b);
            my_putchar(c);
-           my_putchar('\n');
-	      c++;
+           my_putchar(',');
+	   my_putchar(' ');
+	   c++;
 	  }
 	b++;
 	}
