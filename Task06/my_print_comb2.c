@@ -1,4 +1,4 @@
-int my_print_comb(void)
+int my_print_comb2(void)
 {
   int a = 48, b = 48, c = 48, d = 48;
 
