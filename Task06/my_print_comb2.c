@@ -16,8 +16,15 @@ while (a <= 57)
                     my_putchar(' ');
                     my_putchar(c);
                     my_putchar(d);
-                    my_putchar(',');
-                    my_putchar(' ');
+		    if (a == 57 && b == 56 && c == 57 && d == 57)
+		      {
+			my_putchar();
+		      }
+		    else
+		      {
+			my_putchar(',');
+			my_putchar(' ');
+		      }
                 }
                 d++;
             }
