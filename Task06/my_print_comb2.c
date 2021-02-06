@@ -1,7 +1,6 @@
 int my_print_comb2(void)
 {
-  int a, b, c, d;
-  a = 48;
+  int a = 48, b = 48, c = 48, d = 48;
 while (a <= 57)
 {
     while(b <= 57)
